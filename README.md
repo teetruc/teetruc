@@ -1,6 +1,6 @@
-## Hi, I'm Tiffany.
+## Hi! I'm Tiffany.
 
-Currently learning Go and React!
+I am currently a third-year computer science major. I am currently learning Vue.js and polishing up my React! You can browse around my profile and take a look at my repositories. 
 
 <!---
 teetruc/teetruc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
