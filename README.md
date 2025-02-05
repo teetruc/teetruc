@@ -2,9 +2,9 @@
 
 
 👋 Hi, I’m Tiffany Truc  
-👀 I’m interested in Machine Learning, Frontend, Backend, and Robotics. 
-🌱 I'm currently an Undergraduate Research Assistant at the Spacecraft Platform for Astronautics and Celestial Emulation (SPACE) Laboratory, and an Information Systems Intern at the International Rescue Committee!
-🎓 I’m a 4th-year Computer Science major at San Diego State University.
+👀 I’m interested in Machine Learning, Frontend, Backend, and Robotics.  
+🌱 I'm currently an Undergraduate Research Assistant at the Spacecraft Platform for Astronautics and Celestial Emulation (SPACE) Laboratory, and an Information Systems Intern at the International Rescue Committee!  
+🎓 I’m a 4th-year Computer Science major at San Diego State University.  
 
 <!---
 teetruc/teetruc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
